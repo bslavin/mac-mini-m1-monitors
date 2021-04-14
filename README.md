@@ -4,8 +4,6 @@ What is the best monitor for the Apple M1 Mac Mini - I don't know, but here is a
 
 ## I was tired of watching youtube monitors or scrolling through forums and Reddit posts to try figure out the best monitor for my needs.
 
-
-
 | Brand | Exact model | Interface connected | Cable used (include link if third party) | Adapter used (include link) | Color scheme (RGB or YPbPr, iavailable)| Issues| Notes|
 | ------ | ------------------- | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Dell| U2720Q/QM  | ||  || Set SmartHDR to DisplayHDR. Do not use macOS HDR setting. Reboot Mac and you get RGB color scheme. | Same quality as an Intel Mac. Text is super sharp.|
@@ -16,9 +14,7 @@ What is the best monitor for the Apple M1 Mac Mini - I don't know, but here is a
 | ViewSonic | VG2455  | USB-C to USB-C ||  || | Works perfectly. 
 | LG  | 27UK850-W  | USB-C to USB-C ||  || ||
 | Dell| U2421E  | USB-C to USB-C ||  || | Working on YPbPr color scheme.  |
-| Phillips  | 272B7QPTKEB/75| HDMI to HDMI| Generic HDMI cable  | GenericUSB-C to VGA adapter || Speakers are horrible.  | Text is crystal clear on both HDMI 2560x1440 and VGA 1920x1080.  |
-| Webcam works perfectly.  |
-| USB hub works perectly.  |
+| Phillips  | 272B7QPTKEB/75| HDMI to HDMI| Generic HDMI cable  | GenericUSB-C to VGA adapter || Speakers are horrible.  | Text is crystal clear on both HDMI 2560x1440 and VGA 1920x1080. Webcam works perfectly. USB hub works perectly.  |
 | AOC | Q2790PQU| ||  || | Works fine.|
 | AOC | 24P2C| USB-C to USB-C | AOC supplied  |  || | KVM works and USB Hub too. Need to power cycle monitor late in the boot sequence for USB ports to be recognised. |
 | Acer| Predator X34P | ||  || ||
@@ -30,13 +26,11 @@ What is the best monitor for the Apple M1 Mac Mini - I don't know, but here is a
 | electriq  | 32CVQ165A 32" 165Hz | Cable Matters Thunderbolt USB-C to Display Port ||  || Running macOS at 2560 x 1449 @ 120Hz. Suffers||
 | from fuzzy fonts.  |
 | Dell| U2721DE | USB-C to USB-C || QGeeM USB-C Hub | YPbPr with USB-C only (2560x1440 @60hz), or RGB with HDMI over the QGeeM Hub (2560x1440 @60hz) | Select native resolution for the monitor (2560x1440). Fonts look a little blurry / fuzzy. Reduced the Apple Font Smoothing to 1 (if I choose 0, the fonts are thinner and more fuzzy). | The colors looks to me OK even with YPbPr- the contrast is overall a little bit less I think. Switch to RGB with HDMI with help of the QGeem Hub: I can't see any major difference in color- the contrast is better I think. |
-| [https://www.amazon.com/gp/product/B07QXMNF1X/ref=ppx\_yo\_dt\_b\_asin\_title\_o03\_s00?ie=UTF8&psc=1](https://buy.geni.us/Proxy.ashx?TSID=104254&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB07QXMNF1X%2Fref%3Dppx_yo_dt_b_asin_title_o03_s00%3Fie%3DUTF8%26psc%3D1%26tag%3Dmrforums-20&dtb=1) |
 | Dell| S2421NX | HDMI to HDMI||  | YPbPr| ||
-|  |
 | LG  | 24UD58  | USB-C to DisplayPort ||  || | Resolution set at "looks like" 2048 x 1152. Beautifully crisp display and no problems with waking after sleep.|
-|  |
 | Samsung| U28E590 | HDMI-2.0 to HDMI-2.0 | HDMI-2.0 Cable Incl.|  || None. Beautiful.  | Both HDMI inputs are 3840x2160 but only Input #2 is 60Hz. Input #1 is 30Hz.  |
-| Dell| P2421DC | USB-C to DisplayPort | [Cheotech USB-C to DislayPort](https://buy.geni.us/Proxy.ashx?TSID=104254&GR_URL=https%3A%2F%2Fwww.amazon.co.uk%2FCHOETECH-DisplayPort-Thunderbolt-Compatible-MacBook%2Fdp%2FB0744GWJ8X%3Ftag%3Dmacr0e-21&dtb=1) |  | RGB  | None that I can find - resolution 2560x1440  | monitor’s own inbuilt USB-C connection dedicated to my work laptop  |
+| Dell| P2421DC | USB-C to DisplayPort | Cheotech USB-C to DislayPort|  | RGB  | None that I can find - resolution 2560x1440  | monitor’s own inbuilt USB-C connection dedicated to my work laptop  
+
 
 
 The initial chart is inspired by https://forums.macrumors.com/threads/mac-mini-m1-compatible-monitor-list.2282729/
