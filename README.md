@@ -4,10 +4,10 @@ What is the best monitor for the Apple M1 Mac Mini - I don't know, but here is a
 
 ## I was tired of watching youtube reviews or scrolling through forums and Reddit posts to try figure out the best monitor for my needs.
 
-| Brand | Size |Exact model | Panel Type |Interface connected | Cable used (include link if third party) | Adapter used (include link) | Color scheme (RGB or YPbPr, iavailable)| Issues| Notes|
-| ------ | ----- | ------------------- | ------------ |----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Brand | Size |Exact model | Panel Type |Interface connected | Cable used (include link if third party) | Adapter used (include link) | Color scheme (RGB or YPbPr, if available)| Issues| Notes|
+| ------ | ----- | ------------------- | ------------ |---------------------- | ---------------------------- | --------------------------- | ------- | ------------------------ | ------------------------------------ |
 | Dell| 27 | U2720Q/QM | LED IPS | ||  || Set SmartHDR to DisplayHDR. Do not use macOS HDR setting. Reboot Mac and you get RGB color scheme. | Same quality as an Intel Mac. Text is super sharp.|
-| Dell| 27 | U2718Q | IPS | | USB-C to DisplayPort|  || | Works perfectly. |
+| Dell| 27 | U2718Q | IPS | USB-C to DisplayPort|  || | Works perfectly. |
 | Dell| 27 | P2721Q | FHD | ||  || ||
 | LG  | 43 | 43UD79-B | IPS | USB-C to UBC-C ||  || | Works perfectly. |
 | Dell| 24 | S2421NX | IPS LED FHD | HDMI to HDMI||  || | Works fine.|
@@ -27,7 +27,7 @@ What is the best monitor for the Apple M1 Mac Mini - I don't know, but here is a
 | Dell| 27 | U2721DE | QHD IPS | USB-C to USB-C || QGeeM USB-C Hub | YPbPr with USB-C only (2560x1440 @60hz), or RGB with HDMI over the QGeeM Hub (2560x1440 @60hz) | Select native resolution for the monitor (2560x1440). Fonts look a little blurry / fuzzy. Reduced the Apple Font Smoothing to 1 (if I choose 0, the fonts are thinner and more fuzzy). | The colors looks to me OK even with YPbPr- the contrast is overall a little bit less I think. Switch to RGB with HDMI with help of the QGeem Hub: I can't see any major difference in color- the contrast is better I think. |
 | Dell| 24  | S2421NX | LED IPS | HDMI to HDMI||  | YPbPr| ||
 | LG  | 24 | 24UD58 | UHD IPS | USB-C to DisplayPort ||  || | Resolution set at "looks like" 2048 x 1152. Beautifully crisp display and no problems with waking after sleep.|
-| Samsung| | U28E590 | UHD | HDMI-2.0 to HDMI-2.0 | HDMI-2.0 Cable Incl.|  || None. Beautiful.  | Both HDMI inputs are 3840x2160 but only Input #2 is 60Hz. Input #1 is 30Hz.  |
+| Samsung| 28 | U28E590 | UHD | HDMI-2.0 to HDMI-2.0 | HDMI-2.0 Cable Incl.|  || None. Beautiful.  | Both HDMI inputs are 3840x2160 but only Input #2 is 60Hz. Input #1 is 30Hz.  |
 | Dell| 24 | P2421DC | QHD IPS | USB-C to DisplayPort | Cheotech USB-C to DislayPort|  | RGB  | None that I can find - resolution 2560x1440  | monitor’s own inbuilt USB-C connection dedicated to my work laptop  
 
 
