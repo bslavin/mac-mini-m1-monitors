@@ -2,7 +2,7 @@
 What is the best monitor for the Apple M1 Mac Mini - I don't know, but here is a good place to share.
 
 
-## I was tired of watching youtube monitors or scrolling through forums and Reddit posts to try figure out the best monitor for my needs.
+## I was tired of watching youtube reviews or scrolling through forums and Reddit posts to try figure out the best monitor for my needs.
 
 | Brand | Exact model | Interface connected | Cable used (include link if third party) | Adapter used (include link) | Color scheme (RGB or YPbPr, iavailable)| Issues| Notes|
 | ------ | ------------------- | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
